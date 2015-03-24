@@ -20,10 +20,10 @@ is always consistent then it is called as Thread-safe.
     - implementing java.lang.Runnableinterface
     - extending the java.lang.Threadclass
 13. The Object that implements Runnable interface will execute the code defined in run().
-
-
-
  */
+
+
+
 public class FirstThread extends Thread{
 
     public static void main(String[] args) {

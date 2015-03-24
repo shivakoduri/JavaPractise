@@ -1,4 +1,6 @@
-package com.threads.scjp;
+package com.threads.scjp.examples.test;
+
+import com.threads.scjp.examples.Counter;
 
 /**
  * Created by Chiranjeevi on 3/24/15.

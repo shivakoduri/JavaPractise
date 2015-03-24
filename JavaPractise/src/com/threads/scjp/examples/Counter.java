@@ -1,4 +1,4 @@
-package com.threads.scjp;
+package com.threads.scjp.examples;
 
 /**
  * Created by Chiranjeevi on 3/23/15.
@@ -7,7 +7,7 @@ public class Counter implements Runnable {
 
     private int counter;
 
-    Counter(){
+    public Counter(){
         counter = 0;
     }
 
